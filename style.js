@@ -33,9 +33,8 @@ export default StyleSheet.create({
     },
 
     selectStyle: {
-        borderColor: '#ccc',
-        borderWidth: 1,
-        padding: 8,
+        padding : 12,
+        paddingLeft: 5,
         borderRadius: BORDER_RADIUS
     },
 
