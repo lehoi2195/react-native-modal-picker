@@ -33,9 +33,11 @@ export default StyleSheet.create({
     },
 
     selectStyle: {
-        padding : 12,
-        paddingLeft: 5,
-        borderRadius: BORDER_RADIUS
+        height: height/15,
+        paddingLeft: 10,
+        justifyContent:'center', 
+        borderRadius: BORDER_RADIUS,
+        borderWidth: 1,
     },
 
     selectTextStyle: {
