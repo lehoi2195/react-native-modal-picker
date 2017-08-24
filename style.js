@@ -41,7 +41,7 @@ export default StyleSheet.create({
     },
 
     selectTextStyle: {
-        color: 'red',
+        color: '#de0813',
         fontSize: FONT_SIZE
     },
 
